@@ -1,1 +1,2 @@
-this is file2
+this is file2sending file2 to staging
+editing file2 once again after staging
